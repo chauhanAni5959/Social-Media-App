@@ -1,0 +1,29 @@
+.detail-wrapper {
+  padding: 24px;
+}
+
+.detail-heading {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+.detail-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+.detail-text p {
+  margin: 6px 0;
+}
+
+.center-text {
+  padding: 24px;
+  text-align: center;
+}
+
+.error {
+  color: #ff4c4c;
+}
